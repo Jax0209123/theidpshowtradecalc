@@ -302,7 +302,7 @@ var playerValues = {
     "Matt Judon": {
         value: 2060,
         position: "DL",
-        team: "NE",
+        team: "ATL",
         weight: 1
     },
     "Marshawn Kneeland": {
