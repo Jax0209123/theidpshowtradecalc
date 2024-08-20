@@ -302,7 +302,7 @@ var playerValues = {
     "Matt Judon": {
         value: 1959,
         position: "DL",
-        team: "NE",
+        team: "ATL",
         weight: 1
     },
     "Zaven Collins": {
