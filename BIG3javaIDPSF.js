@@ -5996,289 +5996,289 @@ var playerValues = {
     
         };
 draftPicks = {
-"2024 Pick 1.01": {
+"2025 Pick 1.01": {
     value: 8652,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.02": {
+"2025 Pick 1.02": {
     value: 8323,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.03": {
+"2025 Pick 1.03": {
     value: 6647,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.04": {
+"2025 Pick 1.04": {
     value: 6486,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.05": {
+"2025 Pick 1.05": {
     value: 5961,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.06": {
+"2025 Pick 1.06": {
     value: 5575,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.07": {
+"2025 Pick 1.07": {
     value: 5312,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.08": {
+"2025 Pick 1.08": {
     value: 5200,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.09": {
+"2025 Pick 1.09": {
     value: 4908,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.10": {
+"2025 Pick 1.10": {
     value: 4845,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.11": {
+"2025 Pick 1.11": {
     value: 4553,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 1.12": {
+"2025 Pick 1.12": {
     value: 4409,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.01": {
+"2025 Pick 2.01": {
     value: 3990,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.02": {
+"2025 Pick 2.02": {
     value: 3863,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.03": {
+"2025 Pick 2.03": {
     value: 3685,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.04": {
+"2025 Pick 2.04": {
     value: 3528,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.05": {
+"2025 Pick 2.05": {
     value: 3430,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.06": {
+"2025 Pick 2.06": {
     value: 3308,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.07": {
+"2025 Pick 2.07": {
     value: 3261,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.08": {
+"2025 Pick 2.08": {
     value: 3144,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.09": {
+"2025 Pick 2.09": {
     value: 3088,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.10": {
+"2025 Pick 2.10": {
     value: 3031,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.11": {
+"2025 Pick 2.11": {
     value: 2925,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 2.12": {
+"2025 Pick 2.12": {
     value: 2749,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.01": {
+"2025 Pick 3.01": {
     value: 2631,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.02": {
+"2025 Pick 3.02": {
     value: 2476,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.03": {
+"2025 Pick 3.03": {
     value: 2388,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.04": {
+"2025 Pick 3.04": {
     value: 2350,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.05": {
+"2025 Pick 3.05": {
     value: 2328,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.06": {
+"2025 Pick 3.06": {
     value: 2285,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.07": {
+"2025 Pick 3.07": {
     value: 2243,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.08": {
+"2025 Pick 3.08": {
     value: 2140,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.09": {
+"2025 Pick 3.09": {
     value: 2062,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.10": {
+"2025 Pick 3.10": {
     value: 1962,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.11": {
+"2025 Pick 3.11": {
     value: 1912,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 3.12": {
+"2025 Pick 3.12": {
     value: 1766,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.01": {
+"2025 Pick 4.01": {
     value: 1720,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.02": {
+"2025 Pick 4.02": {
     value: 1637,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.03": {
+"2025 Pick 4.03": {
     value: 1587,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.04": {
+"2025 Pick 4.04": {
     value: 1556,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.05": {
+"2025 Pick 4.05": {
     value: 1544,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.06": {
+"2025 Pick 4.06": {
     value: 1524,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.07": {
+"2025 Pick 4.07": {
     value: 1502,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.08": {
+"2025 Pick 4.08": {
     value: 1478,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.09": {
+"2025 Pick 4.09": {
     value: 1428,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.10": {
+"2025 Pick 4.10": {
     value: 1412,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.11": {
+"2025 Pick 4.11": {
     value: 1381,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Pick 4.12": {
+"2025 Pick 4.12": {
     value: 1352,
     position: "",
     team: "",
@@ -6290,211 +6290,211 @@ draftPicks = {
     team: "",
     weight: 1
 },
-"2024 Mid 1st": {
+"2025 Mid 1st": {
         value: 5440,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Late 1st": {
+"2025 Late 1st": {
         value: 4724,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Early 2nd": {
+"2025 Early 2nd": {
         value: 3550,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Mid 2nd": {
+"2025 Mid 2nd": {
         value: 3151,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Late 2nd": {
+"2025 Late 2nd": {
         value: 2894,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Early 3rd": {
+"2025 Early 3rd": {
         value: 2319,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Mid 3rd": {
+"2025 Mid 3rd": {
         value: 2218,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Late 3rd": {
+"2025 Late 3rd": {
         value: 2023,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Early 4th": {
+"2025 Early 4th": {
         value: 1545,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Mid 4th": {
+"2025 Mid 4th": {
         value: 1497,
     position: "",
     team: "",
     weight: 1
 },
-"2024 Late 4th": {
+"2025 Late 4th": {
         value: 1312,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Early 1st": {
+"2026 Early 1st": {
         value: 5760,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Mid 1st": {
+"2026 Mid 1st": {
         value: 4966,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Late 1st": {
+"2026 Late 1st": {
         value: 4167,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Early 2nd": {
+"2026 Early 2nd": {
         value: 3247,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Mid 2nd": {
+"2026 Mid 2nd": {
         value: 2891,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Late 2nd": {
+"2026 Late 2nd": {
         value: 2750,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Early 3rd": {
+"2026 Early 3rd": {
         value: 2042,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Mid 3rd": {
+"2026 Mid 3rd": {
         value: 1841,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Late 3rd": {
+"2026 Late 3rd": {
         value: 1644,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Early 4th": {
+"2026 Early 4th": {
         value: 1428,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Mid 4th": {
+"2026 Mid 4th": {
         value: 1362,
     position: "",
     team: "",
     weight: 1
 },
-"2025 Late 4th": {
+"2026 Late 4th": {
         value: 1249,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Early 1st": {
+"2027 Early 1st": {
         value: 4965,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Mid 1st": {
+"2027 Mid 1st": {
         value: 4141,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Late 1st": {
+"2027 Late 1st": {
         value: 3821,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Early 2nd": {
+"2027 Early 2nd": {
         value: 2888,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Mid 2nd": {
+"2027 Mid 2nd": {
         value: 2635,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Late 2nd": {
+"2027 Late 2nd": {
         value: 2473,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Early 3rd": {
+"2027 Early 3rd": {
         value: 1864,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Mid 3rd": {
+"2027 Mid 3rd": {
         value: 1635,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Late 3rd": {
+"2027 Late 3rd": {
         value: 1573,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Early 4th": {
+"2027 Early 4th": {
         value: 1277,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Mid 4th": {
+"2027 Mid 4th": {
         value: 1181,
     position: "",
     team: "",
     weight: 1
 },
-"2026 Late 4th": {
+"2027 Late 4th": {
         value: 978,
     position: "",
     team: "",
